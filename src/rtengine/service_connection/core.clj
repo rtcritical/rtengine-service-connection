@@ -1,4 +1,4 @@
-(ns rtengine-service-connection.core
+(ns rtengine.service-connection.core
   (:require [clojure.java.io :as io])
   (:import [java.util.concurrent Executors ThreadFactory]
            [java.net ServerSocket Socket SocketException InetAddress]

@@ -1,4 +1,4 @@
-(defproject rtcritical/rtengine-service-connection "1.0.0"
+(defproject rtcritical/rtengine-service-connection "2.0.0"
   :description "Service Connection for RTEngine"
   :url "https://github.com/RTCritical/RTEngine Service Connection"
   :license {:name "MIT"

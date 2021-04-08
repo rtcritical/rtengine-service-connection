@@ -1,6 +1,6 @@
-(ns rtengine-service-connection.core-test
+(ns rtengine.service-connection.core-test
   (:require [clojure.test :refer :all]
-            [rtengine-service-connection.core :refer :all])
+            [rtengine.service-connection.core :refer :all])
   (:import [java.util.concurrent Executors]))
 
 (deftest execute-inc

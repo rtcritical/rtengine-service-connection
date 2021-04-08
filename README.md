@@ -3,7 +3,7 @@
 Service Connection for RTEngine.
 
 ```clj
-[rtcritical/rtengine-service-connection "1.0.0"]
+[rtcritical/rtengine-service-connection "2.0.0"]
 ```
 
 ## License
